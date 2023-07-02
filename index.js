@@ -6,6 +6,6 @@ function sayHello() {
     }
 
     let hello = document.getElementById("helloText");
-    hello.innerHTML = `Hello ${inp.value}. This is my first CF app.`;
+    hello.innerHTML = `Hola ${inp.value}. This is my first CF app.`;
     hello.style.display = "block";
 }

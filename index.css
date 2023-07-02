@@ -15,11 +15,11 @@ div {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: tomato;
+    background-color: rgb(11, 38, 103);
 }
 
 span {
-    color: black;
+    color: rgb(221, 221, 221);
     font-size: xx-large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     transition: all 0.75s;
